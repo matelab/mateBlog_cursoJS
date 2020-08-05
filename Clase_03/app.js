@@ -13,8 +13,8 @@ function toUpper0(text) {
 // Asi se invoca una función
 toUpper0(name);
 
-////////////////////////////////////////// The new way to use functions!
-// 1st Way
+////////////////////////////////////////// La nueva forma de declarar funciones!
+// Primera Forma
 const toUpper1 = function (text) {
   const upperCased1 = text.toUpperCase();
   console.log(upperCased1);
