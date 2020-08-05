@@ -22,7 +22,7 @@ const toUpper1 = function (text) {
 
 toUpper1(name);
 
-// 2nd Way
+// Segunda forma
 const toUpper2 = (text) => {
   const upperCased2 = text.toUpperCase();
   console.log(upperCased2);
